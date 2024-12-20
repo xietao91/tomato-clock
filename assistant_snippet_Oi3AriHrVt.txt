@@ -1,0 +1,51 @@
+1|# OSX
+2|.DS_Store
+3|
+4|# Xcode
+5|build/
+6|*.pbxuser
+7|!default.pbxuser
+8|*.mode1v3
+9|!default.mode1v3
+10|*.mode2v3
+11|!default.mode2v3
+12|*.perspectivev3
+13|!default.perspectivev3
+14|xcuserdata
+15|*.xccheckout
+16|*.moved-aside
+17|DerivedData
+18|*.hmap
+19|*.ipa
+20|*.xcuserstate
+21|project.xcworkspace
+22|
+23|# Android/IntelliJ
+24|build/
+25|.idea
+26|.gradle
+27|local.properties
+28|*.iml
+29|*.hprof
+30|
+31|# node.js
+32|node_modules/
+33|npm-debug.log
+34|yarn-debug.log
+35|yarn-error.log
+36|
+37|# BUCK
+38|buck-out/
+39|\.buckd/
+40|*.keystore
+41|
+42|# Bundle artifacts
+43|*.jsbundle
+44|
+45|# CocoaPods
+46|/ios/Pods/
+47|
+48|# Expo
+49|.expo/
+50|dist/
+51|web-build/ 
